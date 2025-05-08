@@ -14,6 +14,7 @@ mlflow server
 MLflow logs can be accessed via: http://127.0.0.1:5000
 """
 
+
 import tensorflow as tf
 from cnn_model import build_cnnmodel
 from data_prep import prepare_mnist_data
