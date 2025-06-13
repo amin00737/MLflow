@@ -1,4 +1,3 @@
-
 """
 The code trains a convolutional neural network (CNN) on the MNIST dataset and uses 
 MLflow to track the experiment. It reads in configuration parameters from an INI file
